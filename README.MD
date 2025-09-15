@@ -1,6 +1,6 @@
 ### Welcome
 
-I'm a Data Analyst working with AI technologies passionate about transforming data into meaningful insights and real-world impact.
+I'm a AI Engineer working with AI technologies passionate about transforming data into meaningful insights and real-world impact.
 
 **My job is:**  
 - Build complete data pipelines using Python, SQL, and BI tools  
@@ -10,5 +10,6 @@ I'm a Data Analyst working with AI technologies passionate about transforming da
 
 **Skills & Tools:**  
 Python / SQL / Power BI / LoRA / NLP / LLMs / and many more...
+
 
 - [LinkedIn](https://www.linkedin.com/in/99i) 
